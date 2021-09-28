@@ -317,7 +317,8 @@ a {
   width: 32px;
   height: 32px;
   color: #fff;
-  background-color: #aaa;
+  background-color: rgb(146, 3, 3);
+
   text-align: center;
   display: inline-block;
   line-height: 33px;
